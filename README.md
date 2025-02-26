@@ -52,7 +52,7 @@
 ###
 
 <div align="left">
-  <p>Linkedin: linkedin.com/in/doriantvk/</p>
+  <p>Linkedin: www.linkedin.com/in/doriantvk</p>
   Portfolio page: https://doriantvk.netlify.app/
 </div>
 
