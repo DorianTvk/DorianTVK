@@ -53,7 +53,7 @@
 
 <div align="left">
   <p>Linkedin: www.linkedin.com/in/doriantvk</p>
-  Portfolio page: [https://doriantvk.netlify.app/](https://doriantvk.framer.website/)
+  Portfolio page: https://doriantvk.framer.website/
 </div>
 
 ###
